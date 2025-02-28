@@ -5,11 +5,14 @@ import { motion } from "framer-motion";
 import Timetable from "./components/Timetable";
 import Syllabus from "./components/Syllabus";
 import Exams from "./components/Exams";
+import ChatBot from "./components/ChatBot";
+import students from "./DummyData";
 
 function App() {
   const [id, setId] = useState("");
   const [isUser, setIsUser] = useState(false);
-  console.log(id);
+  const [userData, setUserData] = useState(null);
+  const [showChatBot, setShowChatBot] = useState(false);
 
   const handleSearch = async () => {
     if (!id.trim()) {
@@ -17,20 +20,17 @@ function App() {
       return;
     }
 
-    // TESTING
-    toast.success("Search Successful!");
-    setIsUser(true);
+    const user = students[id.trim()];
 
-    // TRY WITH REAL API
-
-    // try {
-    //   const response = await fetch(`https://API/search?id=${id}`);
-    //   const data = await response.json();
-
-    //   console.log("Search Result:", data);
-    // } catch (error) {
-    //   console.error("Error fetching data:", error);
-    // }
+    if (user) {
+      setUserData({ ...user, id: id.trim() });
+      setIsUser(true);
+      toast.success(`Welcome, ${user.name}!`);
+    } else {
+      toast.error("No data found for this Registration ID.");
+      setIsUser(false);
+      setUserData(null);
+    }
   };
 
   const ads = [
@@ -57,8 +57,29 @@ function App() {
     },
   ];
 
+  const handleOpenChatBot = () => {
+    setShowChatBot(true);
+  };
+
   return (
     <div className="bg-zinc-900 text-white font-sans">
+      {/* ChatBot  */}
+      <div
+        onClick={handleOpenChatBot}
+        className="fixed bottom-10 right-4 md:right-10 cursor-pointer h-14 w-14 animate-bounce"
+      >
+        <img
+          src="https://cdn-icons-png.flaticon.com/128/2593/2593635.png"
+          alt="Chat-Bot Image"
+        />
+      </div>
+
+      {showChatBot && (
+        <div className="fixed bg-opacity-50 flex items-center justify-end z-50">
+          <ChatBot onClose={() => setShowChatBot(false)} />
+        </div>
+      )}
+
       <Toaster position="top-center" richColors="true" />
 
       {/* Hero Section */}
@@ -74,6 +95,11 @@ function App() {
             src="https://seekvectors.com/files/download/Lovely%20Professional%20University-04.jpg"
             alt="Logo"
           />
+          {isUser && userData && (
+            <p className="text-lg px-2">
+              Welcome, <span className="text-orange-400">{userData?.name}</span>
+            </p>
+          )}
         </div>
 
         <motion.div
@@ -167,9 +193,11 @@ function App() {
           <h1 className="text-center text-orange-400 text-3xl font-bold">
             LPU Centralized Portal
           </h1>
-          <Timetable />
-          <Syllabus />
-          <Exams />
+
+          <Timetable timetable={userData.timetable} />
+          <Syllabus syllabus={userData.syllabus} />
+          <Exams exams={userData.exams} />
+
         </motion.div>
       )}
 

@@ -1,0 +1,302 @@
+[
+    {
+      "id": "1",
+      "request": "What is the admission process for LPU?",
+      "response": "The admission process for LPU involves filling out an online application form, submitting required documents, and appearing for an entrance exam if applicable. You can visit the official LPU website for more details.",
+      "tokens": ["admission", "process", "LPU", "application", "form", "documents", "entrance", "exam"]
+    },
+    {
+      "id": "2",
+      "request": "How can I apply for scholarships at LPU?",
+      "response": "You can apply for scholarships at LPU by filling out the scholarship application form available on the LPU website. Make sure to check the eligibility criteria before applying.",
+      "tokens": ["apply", "scholarships", "LPU", "application", "form", "eligibility", "criteria"]
+    },
+    {
+      "id": "3",
+      "request": "What are the courses offered at LPU?",
+      "response": "LPU offers a wide range of courses including Engineering, Management, Law, Pharmacy, Architecture, and more. You can find the complete list of courses on the LPU website.",
+      "tokens": ["courses", "offered", "LPU", "Engineering", "Management", "Law", "Pharmacy", "Architecture"]
+    },
+    {
+      "id": "4",
+      "request": "What is the fee structure for B.Tech at LPU?",
+      "response": "The fee structure for B.Tech at LPU varies depending on the specialization. You can find the detailed fee structure on the LPU website or contact the admissions office for more information.",
+      "tokens": ["fee", "structure", "B.Tech", "LPU", "specialization", "admissions", "office"]
+    },
+    {
+      "id": "5",
+      "request": "How can I contact the LPU admissions office?",
+      "response": "You can contact the LPU admissions office by calling their helpline number or sending an email to the admissions email ID provided on the LPU website.",
+      "tokens": ["contact", "LPU", "admissions", "office", "helpline", "email"]
+    },
+    {
+      "id": "6",
+      "request": "What is the placement record of LPU?",
+      "response": "LPU has an excellent placement record with top companies visiting the campus every year. You can find the detailed placement statistics on the LPU website.",
+      "tokens": ["placement", "record", "LPU", "companies", "campus", "statistics"]
+    },
+    {
+      "id": "7",
+      "request": "Does LPU provide hostel facilities?",
+      "response": "Yes, LPU provides hostel facilities for both boys and girls. The hostels are well-equipped with all necessary amenities.",
+      "tokens": ["hostel", "facilities", "LPU", "boys", "girls", "amenities"]
+    },
+    {
+      "id": "8",
+      "request": "What is the eligibility criteria for MBA at LPU?",
+      "response": "The eligibility criteria for MBA at LPU includes a bachelor's degree with a minimum of 50% marks and a valid score in CAT/MAT/XAT/CMAT or LPUNEST.",
+      "tokens": ["eligibility", "criteria", "MBA", "LPU", "bachelor", "degree", "CAT", "MAT", "XAT", "CMAT", "LPUNEST"]
+    },
+    {
+      "id": "9",
+      "request": "How can I check my LPU result?",
+      "response": "You can check your LPU result by logging into the student portal on the LPU website using your credentials.",
+      "tokens": ["check", "LPU", "result", "student", "portal", "credentials"]
+    },
+    {
+      "id": "10",
+      "request": "What is the duration of the B.Tech program at LPU?",
+      "response": "The duration of the B.Tech program at LPU is 4 years.",
+      "tokens": ["duration", "B.Tech", "program", "LPU", "years"]
+    },
+    {
+      "id": "11",
+      "request": "Does LPU offer distance learning programs?",
+      "response": "Yes, LPU offers distance learning programs in various fields. You can find more details on the LPU website.",
+      "tokens": ["distance", "learning", "programs", "LPU", "details"]
+    },
+    {
+      "id": "12",
+      "request": "What is the cutoff for B.Tech at LPU?",
+      "response": "The cutoff for B.Tech at LPU varies each year based on the number of applicants and their performance in the entrance exam. You can check the previous year's cutoff on the LPU website.",
+      "tokens": ["cutoff", "B.Tech", "LPU", "applicants", "entrance", "exam", "performance"]
+    },
+    {
+      "id": "13",
+      "request": "How can I apply for re-evaluation of my exam papers at LPU?",
+      "response": "You can apply for re-evaluation of your exam papers by submitting a re-evaluation form along with the required fee at the LPU examination office.",
+      "tokens": ["apply", "re-evaluation", "exam", "papers", "LPU", "form", "fee", "examination", "office"]
+    },
+    {
+      "id": "14",
+      "request": "What is the last date to apply for admission at LPU?",
+      "response": "The last date to apply for admission at LPU varies depending on the course. You can check the important dates on the LPU website.",
+      "tokens": ["last", "date", "apply", "admission", "LPU", "course", "important", "dates"]
+    },
+    {
+      "id": "15",
+      "request": "Does LPU offer international student exchange programs?",
+      "response": "Yes, LPU offers international student exchange programs with various universities around the world. You can find more details on the LPU website.",
+      "tokens": ["international", "student", "exchange", "programs", "LPU", "universities", "details"]
+    },
+    {
+      "id": "16",
+      "request": "What is the procedure to get a duplicate mark sheet from LPU?",
+      "response": "To get a duplicate mark sheet from LPU, you need to submit an application form along with the required fee at the LPU examination office.",
+      "tokens": ["procedure", "duplicate", "mark", "sheet", "LPU", "application", "form", "fee", "examination", "office"]
+    },
+    {
+      "id": "17",
+      "request": "What are the facilities available in LPU hostels?",
+      "response": "LPU hostels are equipped with facilities like Wi-Fi, laundry, gym, mess, and 24/7 security.",
+      "tokens": ["facilities", "LPU", "hostels", "Wi-Fi", "laundry", "gym", "mess", "security"]
+    },
+    {
+      "id": "18",
+      "request": "How can I apply for a leave of absence at LPU?",
+      "response": "You can apply for a leave of absence by submitting a leave application form to your respective department at LPU.",
+      "tokens": ["apply", "leave", "absence", "LPU", "application", "form", "department"]
+    },
+    {
+      "id": "19",
+      "request": "What is the procedure to change my course at LPU?",
+      "response": "To change your course at LPU, you need to submit a course change application form along with the required documents to the admissions office.",
+      "tokens": ["procedure", "change", "course", "LPU", "application", "form", "documents", "admissions", "office"]
+    },
+    {
+      "id": "20",
+      "request": "Does LPU provide transportation facilities?",
+      "response": "Yes, LPU provides transportation facilities for students and staff. You can find the bus routes and schedules on the LPU website.",
+      "tokens": ["transportation", "facilities", "LPU", "students", "staff", "bus", "routes", "schedules"]
+    },
+    {
+      "id": "21",
+      "request": "What is the procedure to get a bonafide certificate from LPU?",
+      "response": "To get a bonafide certificate from LPU, you need to submit an application form at the student affairs office along with the required fee.",
+      "tokens": ["procedure", "bonafide", "certificate", "LPU", "application", "form", "student", "affairs", "office", "fee"]
+    },
+    {
+      "id": "22",
+      "request": "How can I apply for a scholarship renewal at LPU?",
+      "response": "You can apply for a scholarship renewal by submitting a renewal application form along with the required documents to the scholarship office at LPU.",
+      "tokens": ["apply", "scholarship", "renewal", "LPU", "application", "form", "documents", "scholarship", "office"]
+    },
+    {
+      "id": "23",
+      "request": "What is the procedure to get a transfer certificate from LPU?",
+      "response": "To get a transfer certificate from LPU, you need to submit an application form at the student affairs office along with the required fee.",
+      "tokens": ["procedure", "transfer", "certificate", "LPU", "application", "form", "student", "affairs", "office", "fee"]
+    },
+    {
+      "id": "24",
+      "request": "Does LPU offer online courses?",
+      "response": "Yes, LPU offers online courses in various fields. You can find more details on the LPU website.",
+      "tokens": ["online", "courses", "LPU", "details"]
+    },
+    {
+      "id": "25",
+      "request": "What is the procedure to get a character certificate from LPU?",
+      "response": "To get a character certificate from LPU, you need to submit an application form at the student affairs office along with the required fee.",
+      "tokens": ["procedure", "character", "certificate", "LPU", "application", "form", "student", "affairs", "office", "fee"]
+    },
+    {
+      "id": "26",
+      "request": "How can I apply for a hostel room at LPU?",
+      "response": "You can apply for a hostel room by filling out the hostel application form available on the LPU website and submitting it to the hostel office.",
+      "tokens": ["apply", "hostel", "room", "LPU", "application", "form", "hostel", "office"]
+    },
+    {
+      "id": "27",
+      "request": "What is the procedure to get a migration certificate from LPU?",
+      "response": "To get a migration certificate from LPU, you need to submit an application form at the student affairs office along with the required fee.",
+      "tokens": ["procedure", "migration", "certificate", "LPU", "application", "form", "student", "affairs", "office", "fee"]
+    },
+    {
+      "id": "28",
+      "request": "Does LPU provide medical facilities?",
+      "response": "Yes, LPU provides medical facilities including a hospital and a pharmacy on campus.",
+      "tokens": ["medical", "facilities", "LPU", "hospital", "pharmacy", "campus"]
+    },
+    {
+      "id": "29",
+      "request": "How can I apply for a degree certificate from LPU?",
+      "response": "You can apply for a degree certificate by submitting an application form at the examination office along with the required fee.",
+      "tokens": ["apply", "degree", "certificate", "LPU", "application", "form", "examination", "office", "fee"]
+    },
+    {
+      "id": "30",
+      "request": "What is the procedure to get a provisional certificate from LPU?",
+      "response": "To get a provisional certificate from LPU, you need to submit an application form at the examination office along with the required fee.",
+      "tokens": ["procedure", "provisional", "certificate", "LPU", "application", "form", "examination", "office", "fee"]
+    },
+    {
+      "id": "31",
+      "request": "Does LPU offer part-time courses?",
+      "response": "Yes, LPU offers part-time courses in various fields. You can find more details on the LPU website.",
+      "tokens": ["part-time", "courses", "LPU", "details"]
+    },
+    {
+      "id": "32",
+      "request": "What is the procedure to get a transcript from LPU?",
+      "response": "To get a transcript from LPU, you need to submit an application form at the examination office along with the required fee.",
+      "tokens": ["procedure", "transcript", "LPU", "application", "form", "examination", "office", "fee"]
+    },
+    {
+      "id": "33",
+      "request": "How can I apply for a library card at LPU?",
+      "response": "You can apply for a library card by submitting an application form at the library office along with the required documents.",
+      "tokens": ["apply", "library", "card", "LPU", "application", "form", "library", "office", "documents"]
+    },
+    {
+      "id": "34",
+      "request": "What is the procedure to get a no dues certificate from LPU?",
+      "response": "To get a no dues certificate from LPU, you need to submit an application form at the accounts office along with the required fee.",
+      "tokens": ["procedure", "no dues", "certificate", "LPU", "application", "form", "accounts", "office", "fee"]
+    },
+    {
+      "id": "35",
+      "request": "Does LPU offer research programs?",
+      "response": "Yes, LPU offers research programs in various fields. You can find more details on the LPU website.",
+      "tokens": ["research", "programs", "LPU", "details"]
+    },
+    {
+      "id": "36",
+      "request": "What is the procedure to get a convocation certificate from LPU?",
+      "response": "To get a convocation certificate from LPU, you need to submit an application form at the examination office along with the required fee.",
+      "tokens": ["procedure", "convocation", "certificate", "LPU", "application", "form", "examination", "office", "fee"]
+    },
+    {
+      "id": "37",
+      "request": "How can I apply for a sports scholarship at LPU?",
+      "response": "You can apply for a sports scholarship by submitting an application form along with the required documents to the sports office at LPU.",
+      "tokens": ["apply", "sports", "scholarship", "LPU", "application", "form", "documents", "sports", "office"]
+    },
+    {
+      "id": "38",
+      "request": "What is the procedure to get a degree verification from LPU?",
+      "response": "To get a degree verification from LPU, you need to submit an application form at the examination office along with the required fee.",
+      "tokens": ["procedure", "degree", "verification", "LPU", "application", "form", "examination", "office", "fee"]
+    },
+    {
+      "id": "39",
+      "request": "Does LPU offer certificate courses?",
+      "response": "Yes, LPU offers certificate courses in various fields. You can find more details on the LPU website.",
+      "tokens": ["certificate", "courses", "LPU", "details"]
+    },
+    {
+      "id": "40",
+      "request": "What is the procedure to get a duplicate ID card from LPU?",
+      "response": "To get a duplicate ID card from LPU, you need to submit an application form at the student affairs office along with the required fee.",
+      "tokens": ["procedure", "duplicate", "ID", "card", "LPU", "application", "form", "student", "affairs", "office", "fee"]
+    },
+    {
+      "id": "41",
+      "request": "How can I apply for a cultural scholarship at LPU?",
+      "response": "You can apply for a cultural scholarship by submitting an application form along with the required documents to the cultural office at LPU.",
+      "tokens": ["apply", "cultural", "scholarship", "LPU", "application", "form", "documents", "cultural", "office"]
+    },
+    {
+      "id": "42",
+      "request": "What is the procedure to get a duplicate degree certificate from LPU?",
+      "response": "To get a duplicate degree certificate from LPU, you need to submit an application form at the examination office along with the required fee.",
+      "tokens": ["procedure", "duplicate", "degree", "certificate", "LPU", "application", "form", "examination", "office", "fee"]
+    },
+    {
+      "id": "43",
+      "request": "Does LPU offer summer training programs?",
+      "response": "Yes, LPU offers summer training programs in various fields. You can find more details on the LPU website.",
+      "tokens": ["summer", "training", "programs", "LPU", "details"]
+    },
+    {
+      "id": "44",
+      "request": "What is the procedure to get a duplicate diploma certificate from LPU?",
+      "response": "To get a duplicate diploma certificate from LPU, you need to submit an application form at the examination office along with the required fee.",
+      "tokens": ["procedure", "duplicate", "diploma", "certificate", "LPU", "application", "form", "examination", "office", "fee"]
+    },
+    {
+      "id": "45",
+      "request": "How can I apply for a merit scholarship at LPU?",
+      "response": "You can apply for a merit scholarship by submitting an application form along with the required documents to the scholarship office at LPU.",
+      "tokens": ["apply", "merit", "scholarship", "LPU", "application", "form", "documents", "scholarship", "office"]
+    },
+    {
+      "id": "46",
+      "request": "What is the procedure to get a duplicate mark sheet from LPU?",
+      "response": "To get a duplicate mark sheet from LPU, you need to submit an application form at the examination office along with the required fee.",
+      "tokens": ["procedure", "duplicate", "mark", "sheet", "LPU", "application", "form", "examination", "office", "fee"]
+    },
+    {
+      "id": "47",
+      "request": "Does LPU offer winter training programs?",
+      "response": "Yes, LPU offers winter training programs in various fields. You can find more details on the LPU website.",
+      "tokens": ["winter", "training", "programs", "LPU", "details"]
+    },
+    {
+      "id": "48",
+      "request": "What is the procedure to get a duplicate provisional certificate from LPU?",
+      "response": "To get a duplicate provisional certificate from LPU, you need to submit an application form at the examination office along with the required fee.",
+      "tokens": ["procedure", "duplicate", "provisional", "certificate", "LPU", "application", "form", "examination", "office", "fee"]
+    },
+    {
+      "id": "49",
+      "request": "How can I apply for a sports quota at LPU?",
+      "response": "You can apply for a sports quota by submitting an application form along with the required documents to the sports office at LPU.",
+      "tokens": ["apply", "sports", "quota", "LPU", "application", "form", "documents", "sports", "office"]
+    },
+    {
+      "id": "50",
+      "request": "What is the procedure to get a duplicate convocation certificate from LPU?",
+      "response": "To get a duplicate convocation certificate from LPU, you need to submit an application form at the examination office along with the required fee.",
+      "tokens": ["procedure", "duplicate", "convocation", "certificate", "LPU", "application", "form", "examination", "office", "fee"]
+    }
+]
